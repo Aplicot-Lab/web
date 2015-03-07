@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/caseyscarborough/github-activity.git"
+    "url": "git://github.com/caseyscarborough/ES-C/Apricot-lab/.git"
   },
   "keywords": [
     "github"
@@ -27,7 +27,7 @@
   "author": "Casey Scarborough",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/caseyscarborough/github-activity/issues"
+    "url": "https://github.com/ES-C/Apricot-lab/issues"
   },
-  "homepage": "https://github.com/caseyscarborough/github-activity"
+  "homepage": "https://github.com/ES-C/Apricot-lab/"
 }
